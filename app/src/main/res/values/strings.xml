@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerWithReset</string>
+    <string name="roll_label2">Roll</string>
+    <string name="reset">Reset</string>
+</resources>
